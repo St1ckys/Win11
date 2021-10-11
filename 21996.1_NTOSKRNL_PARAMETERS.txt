@@ -1,12 +1,12 @@
-####################################################
-#                    Windows 11                    #
-#    FILE: NTOSKRNL / NT Kernel & System           #
-#    FILEVERSION:    21996.1                       #
-#    SECTION:        ALMOSTRO/CmControlVector      #
-#    AUTHOR:         St1cky                        #
-#    WEBSITE:        https://github.com/St1ckys    #
-#                                                  #
-####################################################
+#################################################################
+#                    Windows 11                                 #
+#    FILE: NTOSKRNL / NT Kernel & System                        #
+#    FILEVERSION:    21996.1                                    #
+#    SECTION:        ALMOSTRO/CmControlVector                   #
+#    AUTHOR:         toutpuissantged                            #
+#    WEBSITE:        https://github.com/toutpuissantged/Win11   #
+#                                                               #
+#################################################################
 
 
 "Session Manager\\Quota System"

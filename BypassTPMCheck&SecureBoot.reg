@@ -2,8 +2,8 @@
 
 ;; ##########
 ;; # Windows 11 Setup - Bypass TPM & Secureboot
-;; # Author:	St1cky
-;; # Website:	https://github.com/St1ckys
+;; # Author:	Toutpuissantged
+;; # Website:	https://github.com/toutpuissantged/Win11
 ;; # BypassTPMCheck&SecureBoot.reg
 ;; #
 ;; # Hardware Requirements:
@@ -16,3 +16,4 @@
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
 "BypassRAMCheck"=dword:00000001
+"AllowUpgradesWithUnsupportedTPMOrCPU "=dword:00000001
